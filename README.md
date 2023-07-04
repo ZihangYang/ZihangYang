@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @ZihangYang
-- 👀 I’m interested in Electronics, Photonics
-- 📫 zihang@qontrol.co.uk
+<h1 align="center">Hi 👋, I'm Zihang</h1>
+<h3 align="center">An Electronics engineer interested in Integrated Electronics, Photonics</h3>
 
-<!---
-ZihangYang/ZihangYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working for [Qontrol Ltd.](https://qontrol.co.uk/)
+
+- 📫 How to reach me **zihang@qontrol.co.uk**
+
+- 📄 Know about my experiences [www.linkedin.com/in/zihang-yang-ab9a2620b](www.linkedin.com/in/zihang-yang-ab9a2620b)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
