@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zihang@qontrol.co.uk**
 
-- 📄 Know about my experiences [linkedin](www.linkedin.com/in/zihang-yang-ab9a2620b)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/zihang-yang-ab9a2620b/)
 
 
 <h3 align="left">Languages and Tools:</h3>
